@@ -1,0 +1,2 @@
+# Quiver
+This tool is designed for chat representatives to more effectively aid patrons, clients or customers by equipping them with resources to streamline the interaction process. (Links to send in chat, information for service, instructions for the representative to learn from, etc.) Its customization options are meant to be convenient and easy for supervisors to edit, add, remove and generally maintain so that the tool stays relevant and updated for the chat representatives to use. 
